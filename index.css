@@ -24,3 +24,13 @@
 .sp:hover{
     color: red;
 }
+.ios17{
+    border: none;
+    box-shadow: 5px 5px 10px;
+    border-radius: 20px;
+    
+}
+.mac img{
+    height: 300px;
+    width: 250px;
+}
