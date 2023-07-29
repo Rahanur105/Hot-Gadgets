@@ -1,0 +1,26 @@
+.container{
+    margin-top: 20px;
+    padding: 10px 50px;
+}
+
+.navbar{
+    border-radius: 20px;
+}
+.center1{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px;
+    border-radius: 20px;
+}
+.btn1{
+   
+    display: flex;
+    align-items: center;
+    margin-left: 130px;
+ 
+}
+.sp:hover{
+    color: red;
+}
