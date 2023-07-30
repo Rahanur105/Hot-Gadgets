@@ -23,6 +23,7 @@
 }
 .sp:hover{
     color: red;
+    font-size: 100px;
 }
 .ios17{
     border: none;
